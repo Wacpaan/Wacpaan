@@ -16,7 +16,8 @@ I'm on the DevOps Engineer path, focusing on automation, infrastructure as code,
 📚 **Currently learning:**  
 - Kubernetes best practices  
 - Monitoring with Grafana + Prometheus  
-- Advanced Azure 
+- Advanced Azure
+- Web developing with JS 
 - Expanding backend skills with C# and Java
 
 🎯 **Goals:**  
