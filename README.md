@@ -9,7 +9,6 @@ I'm on the DevOps Engineer path, focusing on automation, infrastructure as code,
 ---
 
 🚀 **Currently working on:**  
-- `space-bot` – a cloud-deployed project with CI/CD pipeline (GitHub Actions + Docker + Azure)
 - Automating deployments using Terraform and Ansible
 - Learning Kubernetes
 
@@ -21,7 +20,7 @@ I'm on the DevOps Engineer path, focusing on automation, infrastructure as code,
 - Expanding backend skills with C# and Java
 
 🎯 **Goals:**  
-- Get certified in AZ-104 and AZ-204 
+- Get certified in AZ-204 
 - Contribute to an open source DevOps tool  
 - Build a production-ready CI/CD platform from scratch
 
