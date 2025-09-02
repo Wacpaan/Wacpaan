@@ -9,8 +9,9 @@ I'm on the DevOps Engineer path, focusing on automation, infrastructure as code,
 ---
 
 🚀 **Currently working on:**  
-- Automating deployments using Terraform and Ansible
+- Automating deployments with `azure kubernetes service`
 - Learning Kubernetes
+- basic web
 
 
 📚 **Currently learning:**  
