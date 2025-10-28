@@ -11,20 +11,16 @@ I'm on the DevOps Engineer path, focusing on automation, infrastructure as code,
 🚀 **Currently working on:**  
 - Automating deployments with `azure kubernetes service`
 - Learning Kubernetes
-- basic web
+- private portfolio web
 
 
 📚 **Currently learning:**  
-- Kubernetes best practices  
-- Monitoring with Grafana + Prometheus  
 - Advanced Azure
 - Web developing with JS 
 - Expanding backend skills with C# and Java
 
 🎯 **Goals:**  
 - Get certified in AZ-204 
-- Contribute to an open source DevOps tool  
-- Build a production-ready CI/CD platform from scratch
 
 
 ---
@@ -41,7 +37,6 @@ I'm on the DevOps Engineer path, focusing on automation, infrastructure as code,
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <!-- Twoje obecne loga -->
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
