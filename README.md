@@ -18,6 +18,7 @@ I'm on the DevOps Engineer path, focusing on automation, infrastructure as code,
 - Advanced Azure
 - Web developing with JS 
 - Expanding backend skills with C# and Java
+- Arch linux
 
 🎯 **Goals:**  
 - Get certified in AZ-204 
