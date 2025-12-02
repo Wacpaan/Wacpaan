@@ -16,8 +16,9 @@ I'm on the DevOps Engineer path, focusing on automation, infrastructure as code,
 
 📚 **Currently learning:**  
 - Advanced Azure
+- AWS
+- Python backend
 - Web developing with JS 
-- Expanding backend skills with C# and Java
 - Arch linux
 
 🎯 **Goals:**  
