@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konrad</h1>
-<h3 align="center">Aspiring DevOps Engineer from Poland 🇵🇱</h3>
+<h3 align="center">Aspiring DevOps Engineer/Fullstack engineer from Poland 🇵🇱</h3>
 
 ---
 
@@ -16,10 +16,8 @@ I'm on the DevOps Engineer path, focusing on automation, infrastructure as code,
 
 📚 **Currently learning:**  
 - Advanced Azure
-- AWS
-- Python backend
-- Web developing with JS 
-- Arch linux
+- Java
+- Fedora/Redhat distro
 
 🎯 **Goals:**  
 - Get certified in AZ-204 
@@ -48,6 +46,8 @@ I'm on the DevOps Engineer path, focusing on automation, infrastructure as code,
   <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://archlinux.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch" width="40" height="40"/></a>
+  <a href="https://archlinux.org" target="_blank"><img src="[https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg](https://www.vexels.com/png-svg/preview/166401/java-programming-language-icon)" alt="Java" width="40" height="40"/></a>
+  
 </p>
 
 ---
