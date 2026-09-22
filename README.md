@@ -12,6 +12,7 @@ I'm on the DevOps Engineer path, focusing on automation, infrastructure as code,
 - Automating deployments with `azure kubernetes service`
 - Learning Kubernetes
 - private portfolio web
+- **Mainly** Engineer thesis
 
 
 📚 **Currently learning:**  
